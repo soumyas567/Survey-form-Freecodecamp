@@ -1,0 +1,40 @@
+main{
+ 
+background-color:#c7d6bc;
+font-family: 'Gelasio', serif;
+text-align:center;
+margin:75px;
+border-radius:25px;
+padding:10px;
+}
+.personal{
+ display:block;
+  background-color:#e7e8c3;
+padding:50px;
+  text-align:left;}
+.rado{
+  background-color:#e7e8c3;
+ display:block;
+ padding:20px;
+  text-align:left;
+}
+input{
+  margin-bottom:20px;
+  margin-right:20px;
+}
+label, p{
+  color:blue;
+  margin-right:20px;
+}
+.checkbox{
+    background-color:#e7e8c3;
+   display:block;
+  padding:20px;
+  text-align:left;
+}
+.tarea{
+  text-align:left;
+  background-color:#e7e8c3;
+  display:block;
+  padding:20px;
+}
